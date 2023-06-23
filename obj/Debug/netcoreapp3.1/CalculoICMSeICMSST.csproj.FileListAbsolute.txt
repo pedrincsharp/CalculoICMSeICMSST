@@ -1,0 +1,15 @@
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.AssemblyInfoInputs.cache
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.AssemblyInfo.cs
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.csproj.CoreCompileInputs.cache
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\CalculoICMSeICMSST.exe
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\CalculoICMSeICMSST.deps.json
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\CalculoICMSeICMSST.runtimeconfig.json
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\CalculoICMSeICMSST.runtimeconfig.dev.json
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\CalculoICMSeICMSST.dll
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\CalculoICMSeICMSST.pdb
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.csproj.CopyComplete
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.dll
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.pdb
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\obj\Debug\netcoreapp3.1\CalculoICMSeICMSST.genruntimeconfig.cache
+C:\Users\SmarTI\source\repos\CalculoICMSeICMSST\bin\Debug\netcoreapp3.1\SRC\Aliquotas.json

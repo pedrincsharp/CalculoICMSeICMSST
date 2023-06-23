@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CW+EaK7BLwN/xSjugG/84ZjLD140WHBij7hi6MS9Q5ygHyR2/FXYIEJHoXAUZnXrG+WakxHCPKlJhbYotEcXZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SmarTI\\source\\repos\\CalculoICMSeICMSST\\CalculoICMSeICMSST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SmarTI\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
